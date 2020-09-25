@@ -11,3 +11,5 @@ Features of the application:
 
 1. Separate file for the username and password from which the user wants to like posts.
 2. The app will preview the number of posts that are input by the user and press the like button on its own.
+
+This is a short demo of what the script does--> https://youtu.be/wV1lDMJjPZk
