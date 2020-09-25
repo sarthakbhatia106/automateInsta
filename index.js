@@ -15,7 +15,7 @@ let numofPost= process.argv[2];
       page.click("button[type='submit']"),
   ])
   //search for the page you want to like posts
-  await page.type("input[placeholder='Search']","shutter.up6");
+  await page.type("input[placeholder='Search']","Enter the username of the user to like posts");
   await page.waitForSelector(".drKGC .fuqBx a",{visible: true});
   await Promise.all([
     page.waitForNavigation({waitUntil:"networkidle2"}),
