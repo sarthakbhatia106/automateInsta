@@ -1,4 +1,4 @@
-# automateInsta
+# Automate Insta
 instagram automation script
 This is a small script that lets user like any number of posts from a particular account.
 
